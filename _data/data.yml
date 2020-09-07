@@ -39,13 +39,13 @@ educations:
       university: Codam Coding Collge
       time: Jan 2019 - present
       details: |
-        Codam is een programmeer school in Amsterdam. Codam is een peer-to-peer school dat studenten programmeren leert door middel van probleem oplossing met coderen. Codam leert men om problemen op verschilende manieren te proberen aan te pakken en op te lossen.
+        Codam is een programmeer school in Amsterdam. Codam is een peer-to-peer school dat studenten programmeren leert door middel van probleem oplossing met coderen. Codam heeft mij geleert om problemen op verschilende manieren te proberen aan te pakken en op te lossen.
         De programmeertalen die ik heb geleert op Codam zijn: C, Python en een beetje PHP
     - degree: Informatica
       university: Vrije Universiteit Amsterdam
       time: Sep 2017 - Jun 2018
       details: |
-        Eerse jaar van informatica op de universiteit. Gestopt na het eerste jaar om een software ontwikkelings carriere te ontwikkelen op Codam
+        Eerste jaar van informatica op de universiteit. Gestopt na het eerste jaar om een software ontwikkelings carriere te ontwikkelen op Codam
     - degree: Havo
       university: Joke Smit Collge
       time: Sep 2013 - Mei 2014
@@ -57,13 +57,13 @@ experiences:
       company: AM-Flow/Borges
       details: |
         AM-Flow biedt end to end digitale productieoplossingen voor 3d-geprinte onderdelen
-        Voltijd stage waar ik werk aan het programmeren van PLC's en het begrijpen van de grodbeginselen van embedded programmeren. 
-        Full time internship working on programming PLC's and the understanding of the fundamentals of embedded programming. Ik heb de fijne kneepjes van real-time programmeren geleerd, door te werken aan het ontwikkelen en integreren van applicaties en componenten in real-time systemen.
+        Voltijd stage waar ik werk aan het programmeren van PLC's en het begrijpen van de grondbeginselen van embedded programmeren. 
+        Ik heb de fijne kneepjes van real-time programmeren geleerd, door te werken aan het ontwikkelen en integreren van applicaties en componenten in real-time systemen.
         Voornamelijke werzaamheden:
-        - Test software gebruikt om hardeware (PoE camera's) te testen
+        - Test software ontwikkelen die gebruikt om hardeware (PoE camera's) te testen
         - Werken aan een hoge snelheid OCR systeem dat in realtime werkt met PoE camera's
         - Gewerkt in C++ en Python
-        - Gewerkt met unix systeemen om hardware op te zetten
+        - Gewerkt met unix systemen om hardware op te zetten
     - role: Restaurant keukenmedewerker
       time: Jan 2014 - Aug 2019
       company: Loetje

@@ -1,0 +1,95 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Aidan Sullivan
+    tagline: Software Developer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: aidansullivan.work@gmail.com
+    phone: 0031639607982
+    github: AidanSully
+    linkedin: aidan-sullivan
+    HackTheBox: aidansullivan
+    HTB: HTB.png
+
+    languages:
+      - idiom: Dutch
+        level: Native
+
+      - idiom: English
+        level: Native
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Working hard to be as good at coding as I can be. My interests within coding are, but not limited to: 
+      - Ethical hacking
+      - Hardware/PLC programming
+      - Backend development
+educations:
+    - degree: Software Engineer
+      university: Codam Coding Collge
+      time: Jan 2019 - present
+      details: |
+        Codam is a coding school in Amsterdam. Codam is a full peer to peer school, no teachers, no lessons. This school way of learning is through projects. Only place to ask questions is to my peers or to look it up on the internet. This is a great way to learn not only coding but problemsolving too.
+        Programming languages I have learned at Codam are, C programming, Python and some PHP
+    - degree: Computer Science
+      university: Vrije Universiteit Amsterdam
+      time: Sep 2017 - Jun 2018
+      details: |
+        First year of Computer Science at university. Stopped after the first year to persue a software development career through Codam
+    - degree: Havo, Joke Smit College
+      university: Joke Smit Collge
+      time: Sep 2013 - May 2014
+      details: |
+        Finished my High School (HAVO) at Joke Smit College
+experiences:
+    - role: Software Engineer
+      time: May 2020 - Present
+      company: AM-Flow/Borges
+      details: |
+        AM-Flow provides end to end digital manufacturing solutions.
+        Full time internship working on programming PLC's and the understanding of the fundamentals of embedded programming. I have learned intricacies of real-time programming, by working on developing and integrating applications and components into real-time systems.
+        Main tasks:
+        - Testing software used to test hardware (mainly PoE camera's)
+        - Working on a highspeed OCR system which works in realtime with a PoE camera
+        - Worked in C++ and Python
+        - Worked a lot in unix systems setting up hardware
+    - role: Kitchen Staff
+      time: January 2014 - August 2019
+      company: Ouderkerk aan de Amstel
+      details: |
+        Full Time Kitchen Staff in a kitchen with 7-9 coworkers at any given time.
+        This job required me to work well in a team.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C programming
+        level: 100%
+
+      - name: Python
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: UNIX
+        level: 95%
+
+      - name: Bash
+        level: 80%
+      
+      - name: PHP
+        level: 75%
+
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

@@ -48,30 +48,31 @@ educations:
         Eerse jaar van informatica op de universiteit. Gestopt na het eerste jaar om een software ontwikkelings carriere te ontwikkelen op Codam
     - degree: Havo, Joke Smit College
       university: Joke Smit Collge
-      time: Sep 2013 - May 2014
+      time: Sep 2013 - Mei 2014
       details: |
         Middelbare school afgmaakt
 experiences:
     - role: Software Engineer
-      time: May 2020 - Present
+      time: Mei 2020 - Present
       company: AM-Flow/Borges
       details: |
-        AM-Flow provides end to end digital manufacturing solutions.
-        Full time internship working on programming PLC's and the understanding of the fundamentals of embedded programming. I have learned intricacies of real-time programming, by working on developing and integrating applications and components into real-time systems.
-        Main tasks:
-        - Testing software used to test hardware (mainly PoE camera's)
-        - Working on a highspeed OCR system which works in realtime with a PoE camera
-        - Worked in C++ and Python
-        - Worked a lot in unix systems setting up hardware
-    - role: Kitchen Staff
-      time: January 2014 - August 2019
-      company: Ouderkerk aan de Amstel
+        AM-Flow biedt end to end digitale productieoplossingen voor 3d-geprinte onderdelen
+        Voltijd stage waar ik werk aan het programmeren van PLC's en het begrijpen van de grodbeginselen van embedded programmeren. 
+        Full time internship working on programming PLC's and the understanding of the fundamentals of embedded programming. Ik heb de fijne kneepjes van real-time programmeren geleerd, door te werken aan het ontwikkelen en integreren van applicaties en componenten in real-time systemen.
+        Voornamelijke werzaamheden:
+        - Test software gebruikt om hardeware (PoE camera's) te testen
+        - Werken aan een hoge snelheid OCR systeem dat in realtime werkt met PoE camera's
+        - Gewerkt in C++ en Python
+        - Gewerkt met unix systeemen om hardware op te zetten
+    - role: Restaurant keukenmedewerker
+      time: Jan 2014 - Aug 2019
+      company: Loetje
       details: |
-        Full Time Kitchen Staff in a kitchen with 7-9 coworkers at any given time.
-        This job required me to work well in a team.
+        Voltijd keukenmedewerken in een restaurant-keuken met 7-9 collega's aan het werk op elk gegeven moment.
+        Voor deze baan moest ik goed in een team leren werken
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Vaardigheid &amp; Bekwaamzaamheid
 
     toolset:
       - name: C programming

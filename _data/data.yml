@@ -41,16 +41,16 @@ educations:
       details: |
         Codam is een programmeer school in Amsterdam. Codam is een peer-to-peer school dat studenten programmeren leert door middel van problemen oplossing met coderen. Codam leert men om problemen op verschilende manieren te porberen aan te pakken en op te lossen.
         De programmeertalen die ik heb gehad op Codam zijn: C, Python en een beetje PHP
-    - degree: Computer Science
+    - degree: Informatica
       university: Vrije Universiteit Amsterdam
       time: Sep 2017 - Jun 2018
       details: |
-        First year of Computer Science at university. Stopped after the first year to persue a software development career through Codam
+        Eerse jaar van informatica op de universiteit. Gestopt na het eerste jaar om een software ontwikkelings carriere te ontwikkelen op Codam
     - degree: Havo, Joke Smit College
       university: Joke Smit Collge
       time: Sep 2013 - May 2014
       details: |
-        Finished my High School (HAVO) at Joke Smit College
+        Middelbare school afgmaakt
 experiences:
     - role: Software Engineer
       time: May 2020 - Present

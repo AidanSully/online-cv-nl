@@ -29,10 +29,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Working hard to be as good at coding as I can be. My interests within coding are, but not limited to: 
-      - Ethical hacking
-      - Hardware/PLC programming
+      Hard aan het werk om de beste programmeur te zijn die ik kan zijn. Mijn interesses binnenin programmeren zijn:
+      - Ethisch hacken
+      - Hardware/PLC programmeren
       - Backend development
+
 educations:
     - degree: Software Engineer
       university: Codam Coding Collge

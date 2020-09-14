@@ -87,10 +87,13 @@ skills:
       - name: UNIX
         level: 95%
 
-      - name: Bash
+      - name: PHP
         level: 80%
       
-      - name: PHP
+      - name: C++
+        level: 75%
+      
+      - name: JavaScript
         level: 75%
 
 # footer: >

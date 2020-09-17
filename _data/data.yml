@@ -30,17 +30,17 @@ career-profile:
     title: Career Profile
     summary: |
       Hard aan het werk om de beste programmeur te zijn die ik kan zijn. Mijn interesses binnen programmeren zijn:
-      - Ethisch hacken
-      - Hardware/PLC programmeren
       - Backend development
+      - Ethisch hacken
+      - Hardware programmeren
 
 educations:
     - degree: Software Engineer
       university: Codam Coding Collge
       time: Jan 2019 - present
       details: |
-        Codam is een programmeer school in Amsterdam. Codam is een peer-to-peer school dat studenten programmeren leert door middel van probleem oplossing met coderen. Codam heeft mij geleerd om problemen op verschilende manieren te proberen aan te pakken en op te lossen.
-        De programmeertalen die ik heb geleert op Codam zijn: C, Python en een beetje PHP
+        Codam is een programmeer school in Amsterdam. Codam is een peer-to-peer school waar studenten leren programmeren door middel van problemen op te lossen met coderen. Codam heeft mij geleerd om problemen op verschilende manieren aan proberen te pakken en op te lossen.
+        De programmeertalen die ik heb geleerd op Codam zijn: C, Python en een beetje PHP
     - degree: Informatica
       university: Vrije Universiteit Amsterdam
       time: Sep 2017 - Jun 2018
@@ -68,8 +68,8 @@ experiences:
       time: Jan 2014 - Aug 2019
       company: Loetje
       details: |
-        Voltijd keukenmedewerken in een restaurant-keuken met 7-9 collega's aan het werk op elk gegeven moment.
-        Voor deze baan moest ik goed in een team leren werken
+        Voltijd keukenmedewerker in een restaurant-keuken met 7-9 collega's aan het werk op elk gegeven moment.
+        Voor deze baan moest ik goed in een team kunnen werken.
 
 skills:
     title: Vaardigheid &amp; Bekwaamzaamheid
